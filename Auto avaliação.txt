@@ -1,0 +1,5 @@
+Tive um pouco de dificuldade para trasformar o modelo para JAVA, mas com a
+ajuda dos membros da minha equipe consegui finalizar.
+
+Percebi que consigo trabalhar com alguns casos, mas possuo dificuldade em
+outros temas.
